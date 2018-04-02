@@ -5,3 +5,7 @@
 [submodule "project/frontend-nanodegree-arcade-game"]
 	path = project/frontend-nanodegree-arcade-game
 	url = https://github.com/hexinatgithub/frontend-nanodegree-arcade-game.git
+
+[submodule "3 writing test suites/ud549"]
+	path = 3 writing test suites/ud549
+	url = https://github.com/udacity/ud549.git
