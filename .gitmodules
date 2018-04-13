@@ -13,6 +13,11 @@
 [submodule "3 writing test suites/ud549"]
 	path = 3 writing test suites/ud549
 	url = https://github.com/hexinatgithub/ud549.git
+
 [submodule "4 Neighborhood Map/frontend-nanodegree-resume"]
 	path = 4 Neighborhood Map/frontend-nanodegree-resume
 	url = https://github.com/hexinatgithub/frontend-nanodegree-resume.git
+	
+[submodule "4 Neighborhood Map/ud989-cat-clicker-ko-starter"]
+	path = 4 Neighborhood Map/ud989-cat-clicker-ko-starter
+	url = https://github.com/udacity/ud989-cat-clicker-ko-starter.git
