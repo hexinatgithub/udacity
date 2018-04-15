@@ -21,3 +21,6 @@
 [submodule "4 Neighborhood Map/ud989-cat-clicker-ko-starter"]
 	path = 4 Neighborhood Map/ud989-cat-clicker-ko-starter
 	url = https://github.com/udacity/ud989-cat-clicker-ko-starter.git
+[submodule "4 Neighborhood Map/course-ajax"]
+	path = 4 Neighborhood Map/course-ajax
+	url = https://github.com/hexinatgithub/course-ajax.git
