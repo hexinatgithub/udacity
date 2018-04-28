@@ -24,7 +24,7 @@
 	url = https://github.com/udacity/ud864.git
 [submodule "project/reactnd-project-myreads-starter"]
 	path = project/reactnd-project-myreads-starter
-	url = https://github.com/udacity/reactnd-project-myreads-starter.git
+	url = https://github.com/hexinatgithub/reactnd-project-myreads-starter.git
 [submodule "5 React/reactnd-contacts-complete"]
 	path = 5 React/reactnd-contacts-complete
 	url = https://github.com/udacity/reactnd-contacts-complete.git
